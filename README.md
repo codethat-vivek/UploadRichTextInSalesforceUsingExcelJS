@@ -1,1 +1,1 @@
-# SalesforceUploadUsingExcelJS
+# UploadRichTextInSalesforceUsingExcelJS
